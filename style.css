@@ -28,11 +28,15 @@ a:hover{
 	background: rgba(0, 0, 0, 0.3);
 }
 
-/*.wrapper{
+.images{
+	width: 50%;
+}
+
+.wrapper{
 	max-width: 1000px;
 	margin: 0 auto;
 	padding: 50px;
-}*/
+}
 
 .flex-nav ul{
 	border: 1px solid black;
